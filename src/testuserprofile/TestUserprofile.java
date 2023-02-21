@@ -10,6 +10,11 @@ import java.util.Scanner;
  *
  * @author aliibrahim
  */
+
+/**
+ * Comments
+ * This is part of the mid-term exam.
+ */
 public class TestUserprofile {
 
     /**
